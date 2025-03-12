@@ -1,6 +1,6 @@
 # 3D Printing STL Files
 
-This repository contains STL files designed for various components used in open microscopy setups. Below is a description of each file and its intended use.
+This repository contains STL files designed for various components used in open microscopy setups. Below is a description of each file and its intended use. All parts were printed on standard FDM printers such as Ultimaker 3 or Bambulab X1C
 
 ## Files
 
