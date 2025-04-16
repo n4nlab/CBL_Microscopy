@@ -1,4 +1,4 @@
-# UC2-REST and Imswitch Demo
+# UC2-REST Demo
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/n4nlab/CBL_Microscopy)
 ![GitHub top language](https://img.shields.io/github/languages/top/n4nlab/CBL_Microscopy)
 ![GitHub Repo stars](https://img.shields.io/github/stars/n4nlab/CBL_Microscopy)
