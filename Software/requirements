@@ -159,7 +159,6 @@ tzdata==2023.3
 UC2-REST==0.2.0.15
 urllib3==1.26.16
 vispy==0.12.2
-vmbpy @ file:///C:/Program%20Files/Allied%20Vision/Vimba%20X/api/python/vmbpy-1.0.2-py3-none-any.whl#sha256=3eaab2d2fe975c40edbbcc49409e46cfc73393fc771c2c39125bcec27cda0775
 wcwidth==0.2.6
 websockets==11.0.3
 wrapt==1.15.0
