@@ -27,4 +27,4 @@ This STL file includes the design for a calibration slide holder. The holder is 
 
 This STL file contains the design for a cardboard enclosure that incorporates connector pieces and cube inserts. The enclosure is designed to be light-tight, ensuring that the microscopy setup is protected from external light sources. The connector pieces are printed and the cube inserts are positioned on the sides to maintain light closure.
 
-![Image of lightblocking](img/Lightblocking.png)
+![Image of lightblocking](img/LightBlocking.png)
