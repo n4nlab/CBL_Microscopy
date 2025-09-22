@@ -4,9 +4,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/n4nlab/CBL_Microscopy)
 
 
-This repository contains a Jupyter Notebook tutorial (`DEMO.ipynb`) demonstrating the usage of UC2-REST and Imswitch for CBL Microscopy. UC2-REST is an open-source project that provides utilities to control a ESP32 board for microscopy, and Imswitch is another open-source project that provides GUI options for controlling the UC2 board.
+This repository contains a Jupyter Notebook tutorial (`DEMO.ipynb`) demonstrating the usage of UC2-REST and Imswitch for CBL Microscopy. UC2-REST is an open-source project that provides utilities to control an ESP32 board for microscopy, and Imswitch is another open-source project that provides GUI options for controlling the UC2 board.
 
-To run this code you will need a code editor such as jupyter, VS Code or PyCharm, we prefer to use VS Code, but you can use whatever you feel comfortable with. Besides the code editor you will also need an environment, how to create this is explained in the DEMO file. 
+To run this code, you will need a code editor such as Jupyter, VS Code or PyCharm, we prefer to use VS Code, but you can use whatever you feel comfortable with. Besides the code editor, you will also need an environment, how to create this is explained in the DEMO file. 
 
 ## Credits and useful links
 
@@ -42,4 +42,9 @@ Follow these instructions to get the demo running on your local machine.
 
 2. Open the repository or jupyter notebook in your preferred software (VS Code, PyCharm)
 
+If it is the first time using git make sure to run the following lines in git bash (and install git): 
 
+  ```sh
+  git config --global user.name "John Doe"
+  git config --global user.email johndoe@example.com
+  ``` 
